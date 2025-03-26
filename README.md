@@ -9,8 +9,10 @@
 - [Key Insights from EDA](📊#key-insights-from-EDA)
 - [Conclusion](📝#conclusion)
 
+
 ### 📌 Overview
 This project analyzes the relationship between advertising expenditures (TV, Radio, Newspaper) and product sales using Polynomial Regression. The goal is to predict future sales based on historical advertising budgets.
+
 
 ### 📂 Dataset
 The dataset contains advertising budgets and corresponding sales for a product:
@@ -23,10 +25,12 @@ The dataset contains advertising budgets and corresponding sales for a product:
 #### Target (Output):
 - Sales: Product sales (in thousands)
 
+
 ### 🛠️ Tools
 - Python 3.7+
 - Jupyter Notebook
 - Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
+
 
 ### Key Steps
 - ✅ Data Exploration – Statistical analysis & visualizations
@@ -34,6 +38,7 @@ The dataset contains advertising budgets and corresponding sales for a product:
 - ✅ Model Training – Polynomial Regression for sales prediction
 - ✅ Evaluation – Metrics (R², MSE) & model performance
 - ✅ Prediction – Future sales forecasting
+
 
 ### 📊 Key Insights from EDA
 1. TV ads have the strongest correlation with sales (0.80)
@@ -47,6 +52,7 @@ The dataset contains advertising budgets and corresponding sales for a product:
 |TV	|0.80 (Strong)|
 |Radio|	0.55 (Moderate)|
 |Newspaper|0.20 (Weak)|
+
 
 ### 📝 Conclusion
 - TV advertising has the highest impact on sales
