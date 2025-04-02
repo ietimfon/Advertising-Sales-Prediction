@@ -1,4 +1,4 @@
-# CodeAlpha_Advertising-Sales-Prediction
+# Advertising-Sales-Prediction
 ---
 
 ## Table of Contents
