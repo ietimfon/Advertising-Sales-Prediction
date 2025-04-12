@@ -53,8 +53,14 @@ The dataset contains advertising budgets and corresponding sales for a product:
 |Radio|	0.55 (Moderate)|
 |Newspaper|0.20 (Weak)|
 
+#### Model Evaluation Comparison
+|Metric|Polynomial Regression|Random Forest Regressor|
+|------|-----------------|-----------------------|
+|Mean Squared Error|0.41|0.59|
+|R-Squared|0.99|0.98|
+
 
 ### 📝 Conclusion
 - TV advertising has the highest impact on sales
 - Newspaper ads contribute the least and could be optimized for cost efficiency
-- Polynomial Regression outperforms Linear Regression due to non-linear ad-sales relationships
+- Polynomial Regression outperforms Random Forest Regressor
