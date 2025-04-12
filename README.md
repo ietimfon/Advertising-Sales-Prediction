@@ -63,4 +63,4 @@ The dataset contains advertising budgets and corresponding sales for a product:
 ### 📝 Conclusion
 - TV advertising has the highest impact on sales
 - Newspaper ads contribute the least and could be optimized for cost efficiency
-- Polynomial Regression outperforms Random Forest Regressor
+- Polynomial Regression slightly outperforms Random Forest Regressor for this dataset.
